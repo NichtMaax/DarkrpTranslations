@@ -3,4 +3,4 @@
 
 Language | File
 -------- | -------- 
-German (Deutsch)   | ..  
+German (Deutsch)   | [File](https://github.com/NichtMaax/darkrp_translations/blob/main/translations/german.lua)  
